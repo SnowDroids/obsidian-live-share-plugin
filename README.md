@@ -1,3 +1,9 @@
+# Obsidian Live Share Plugin
+This is a work in progress!
+The purpose of this plugin is to provide real-time sharing and editing of individual notes in Obsidian.
+At a high level, it works by communicating with a backend service that you personally deploy in Cloudflare. 
+More details to come.
+
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
